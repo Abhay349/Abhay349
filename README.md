@@ -3,8 +3,8 @@
   <img src="https://github.com/shubhkr72/shubhkr72/blob/main/Github%20Banner2.gif" alt="Welcome Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | CSE @ NIT Agartala</h3>
+<h1 align="center">Hi 👋, I'm Abhay Pandey</h1>
+<h3 align="center">Aspiring Software Engineer | CSE @ NIT Agartala</h3>
 
 <p align="center">
   <img src="https://github.com/shubhkr72/shubhkr72/blob/main/git_anime.gif" alt="Coding" width="350"/>
@@ -14,24 +14,24 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Machine Learning, Deep Learning, and Computer Vision**  
-- 💬 Ask me about **DSA, ML, AI, and MERN Development**  
-- 📫 Reach me at: **shubhkr1320@gmail.com**  
+- 💬 Ask me about **DSA, ML, AI, and JAVA Development**  
+- 📫 Reach me at: **pandeyabhay967@gmail.com**  
 - ⚡ Fun fact: I love solving problems & building cool projects  
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/shubham-sebrin" target="_blank">
+  <a href="[https://linkedin.com/in/shubham-sebrin](https://www.linkedin.com/in/abhay-pandey-79b2a5190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/sebrin" target="_blank">
+  <a href="https://leetcode.com/ab_hay0623" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://kaggle.com/sebrin" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="mailto:shubhkr1320@gmail.com">
+  <a href="mailto:pandeyabhay967@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -59,34 +59,15 @@
   <img src="https://numpy.org/images/logo.svg" width="60" height="50" alt="numpy"/>
   <img src="https://matplotlib.org/_static/logo2.svg" width="55" height="50" alt="matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="seaborn"/>
-  <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" width="50" height="50" alt="jupyter"/>
-  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="80" height="40" alt="tableau"/>
-  <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="60" height="50" alt="powerbi"/>
+  <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" width="50" height="50" alt="jupyter"/
 </p>
 
 ---
 
-### 🤖 Machine Learning Tools & Libraries  
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="scikit-learn"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" alt="pytorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" width="60" height="50" alt="tensorflow"/>
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="70" height="40" alt="xgboost"/>
-  <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="90" height="40" alt="lightgbm"/>
-</p>
 
 
----
 
-### 🧠 Deep Learning Tools & Frameworks  
-<p>
-  <img src="https://keras.io/img/logo.png" width="90" height="40" alt="keras"/>
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="90" height="40" alt="opencv"/>
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="50" height="50" alt="tensorflow"/>
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" height="50" alt="pytorch"/>
-</p>
 
----
 
 ### ⚡ DSA & Programming  
 <p>

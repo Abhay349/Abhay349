@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/shubhkr72/shubhkr72/blob/main/Github%20Banner2.gif" alt="Welcome Banner" width="100%"/>
+  <img src="[https://github.com/shubhkr72/shubhkr72/blob/main/Github%20Banner2.gif](https://www.canva.com/design/DAGzQW3SbCw/K1IdVbLiPS6Skmc9_k-0Ew/watch?utm_content=DAGzQW3SbCw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb6e6b149b7)" alt="Welcome Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhay Pandey</h1>

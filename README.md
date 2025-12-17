@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Abhay349/Abhay349/blob/main/github-header-banner.png"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Abhay Pandey</h1>
 <h3 align="center">Aspiring Software Engineer | CSE @ NIT Agartala</h3>
@@ -14,7 +11,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Machine Learning, and exploring world of Web3**  
-- 💬 Ask me about **DSA, ML, AI, and JAVA Development**  
+- 💬 Ask me about **DSA, ML, Go, Rust and JAVA Development**  
 - 📫 Reach me at: **pandeyabhay967@gmail.com**  
 - ⚡ Fun fact: I love solving problems & building cool projects  
 
@@ -27,9 +24,6 @@
   </a>
   <a href="https://leetcode.com/ab_hay0623" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://kaggle.com/sebrin" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="mailto:pandeyabhay967@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

@@ -19,9 +19,9 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="[https://linkedin.com/in/shubham-sebrin](https://www.linkedin.com/in/abhay-pandey-79b2a5190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <!-- <a href="[https://linkedin.com/in/shubham-sebrin](https://www.linkedin.com/in/abhay-pandey-79b2a5190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a> -->
   <!-- <a href="https://leetcode.com/ab_hay0623" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a> -->

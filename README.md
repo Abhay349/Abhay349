@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhay Pandey</h1>
-<h3 align="center">Aspiring Software Engineer | CSE @ NIT Agartala</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://github.com/shubhkr72/shubhkr72/blob/main/git_anime.gif" alt="Coding" width="350"/>

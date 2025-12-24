@@ -10,8 +10,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **Machine Learning, and exploring world of Web3**  
-- 💬 Ask me about **DSA, ML, Go, Rust and JAVA Development**  
+- 🌱 Currently learning **DevOps, and exploring world of Web3**  
+- 💬 Ask me about **DSA, Go, Rust and JAVA Development**  
 - 📫 Reach me at: **pandeyabhay967@gmail.com**  
 - ⚡ Fun fact: I love solving problems & building cool projects  
 

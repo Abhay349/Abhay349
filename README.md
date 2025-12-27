@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Abhay Pandey</h1>
+<h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">

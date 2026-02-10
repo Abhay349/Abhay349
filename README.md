@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me  
 - 🧩 Working with **Go, Kubernetes, and CI/CD tooling**   
-- 🛠️ Interested in **systems programming, distributed systems, and developer tooling**    
+- 🛠️ Interested in **web3, cryptography, systems programming, distributed systems, and developer tooling**    
 - 💬 Ask me about **Go, DSA, Kubernetes, and open-source contributions**  
 - ⚡ Fun fact: I enjoy debugging complex systems and turning small fixes into meaningful improvements  
 

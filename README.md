@@ -28,13 +28,6 @@
 
 ---
 
-## 📊 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay349&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### ✨ Quote of the Day  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>

@@ -10,24 +10,27 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **DevOps, and exploring world of Web3**  
-- 💬 Ask me about **DSA, Go and JAVA Development**  
-- ⚡ Fun fact: I love solving problems & building cool projects  
-
+- 🧩 Currently working with **Go, Kubernetes, and CI/CD tooling**   
+- 🛠️ Interested in **systems programming, distributed systems, and developer tooling**   
+- 💬 Ask me about **Go, DSA, Kubernetes, and open-source contributions**  
+- ⚡ Fun fact: I enjoy debugging complex systems and turning small fixes into meaningful improvements
 ---
 
 
  <p align="left"> 
-  <!-- <a href="[https://linkedin.com/in/shubham-sebrin](https://www.linkedin.com/in/abhay-pandey-79b2a5190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+ <a href="[https://linkedin.com/in/shubham-sebrin](https://www.linkedin.com/in/abhay-pandey-79b2a5190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
-  <a href="https://leetcode.com/ab_hay0623" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a> -->
- <!-- <a href="mailto:pandeyabhay967@gmail.com">
+  
+  <a href="mailto:pandeyabhay967@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> -->
-<!--</p> 
+## 📊 GitHub Activity Graph
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay349&theme=react" alt="GitHub Activity Graph" />
+</p>
 
 ### ✨ Quote of the Day  
 <p align="center">

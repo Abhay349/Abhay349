@@ -8,10 +8,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🧩 Working with **Go, Kubernetes, and CI/CD tooling**  
-- 🌐 Open-source contributor in the **CNCF ecosystem (Karmada, OpenTelemetry)**  
-- 🛠️ Interested in **systems programming, distributed systems, and developer tooling**  
-- ₿ Exploring **Bitcoin, cryptography, and open financial infrastructure**  
+- 🧩 Working with **Go, Kubernetes, and CI/CD tooling**   
+- 🛠️ Interested in **systems programming, distributed systems, and developer tooling**    
 - 💬 Ask me about **Go, DSA, Kubernetes, and open-source contributions**  
 - ⚡ Fun fact: I enjoy debugging complex systems and turning small fixes into meaningful improvements  
 
